@@ -40,6 +40,14 @@ margin: 0;
   width: 100px;
   font-size: 30px;
 }
+.button1:hover{
+  color:rgb(255, 255, 255);
+  background-color:rgb(35, 88, 131);
+}
+.button1:active{
+  color:rgb(255, 255, 255);
+  background-color:rgb(16, 52, 82);
+}
 .button2{
   color:rgb(255, 255, 255);
   background-color:rgb(207, 55, 75);
@@ -52,6 +60,14 @@ margin: 0;
   width: 100px;
   font-size: 30px;
 
+}
+.button2:hover{
+  color:rgb(255, 255, 255);
+  background-color:rgb(128, 32, 45);
+}
+.button2:active{
+  color:rgb(255, 255, 255);
+  background-color:rgb(70, 17, 24);
 }
 #result{
   color: #ffffff;
